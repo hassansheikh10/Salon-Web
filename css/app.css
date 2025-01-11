@@ -6082,7 +6082,7 @@ img::selection {
 img::-moz-selection {
   background: transparent; }
 
-.loader {
+/* .loader {
   position: fixed;
   left: 0px;
   top: 0px;
@@ -6090,7 +6090,7 @@ img::-moz-selection {
   height: 100%;
   z-index: 9999;
   background: url("../img/loading.gif") 50% 50% no-repeat #f9f9f9;
-  opacity: 1; }
+  opacity: 1; } */
 
 .topmenu {
   padding: 5px 0;
